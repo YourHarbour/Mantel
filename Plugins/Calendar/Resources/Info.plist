@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>       <string>Calendar</string>
+	<key>CFBundleExecutable</key> <string>Calendar</string>
+	<key>CFBundleIdentifier</key> <string>com.local.mantel.plugin.calendar</string>
+	<key>CFBundlePackageType</key><string>BNDL</string>
+	<key>NSPrincipalClass</key>   <string>CalendarPlugin</string>
+</dict>
+</plist>

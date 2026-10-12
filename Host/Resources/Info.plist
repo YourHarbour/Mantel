@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Mantel</string>
+	<key>CFBundleDisplayName</key>
+	<string>Mantel</string>
+	<key>CFBundleExecutable</key>
+	<string>Mantel</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.local.mantel</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Mantel 需要发送注销请求，好让新的菜单栏图标间距对所有 App 生效。</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Mantel 日历插件需要访问您的系统日历，以便在菜单栏展示您的日程安排与提醒。</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Mantel 日历插件需要完全访问系统日历，以便在菜单栏展示与同步您的日程安排。</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
